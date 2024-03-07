@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "ValueSansPro";
+  src: url('./assets/Fonts/Value_Sans_Pro/ValueSansPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ValueSansPro";
+  src: url('./assets/Fonts/Value_Sans_Pro/ValueSansPro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ValueSansPro";
+  src: url('./assets/Fonts/Value_Sans_Pro/ValueSansPro-Medium.ttf') format('truetype');
+  font-weight: medium;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ValueSansPro";
+  src: url('./assets/Fonts/Value_Sans_Pro/ValueSansPro-Black.ttf') format('truetype');
+  font-weight: bolder;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Abril";
+  src: url('./assets/Fonts/Abril/Abril_Display_SemiBold.otf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Abril";
+  src: url('./assets/Fonts/Abril/Abril_Display_Regular.otf') format('truetype');
+  font-weight: regular;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bakilda";
+  src: url('./assets/Fonts/Bakilda/bakilda-histori.ttf')
+}
+
